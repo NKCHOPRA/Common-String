@@ -3,11 +3,12 @@
 using namespace std;
 main()
 {
+     cout<<"Enter number of test cases"<<endl
 	int test;
 	cin>>test;
 	for(int i=0;i<test;i++)
 	{
-		
+		cout<<"Enter strings"<<endl;
 		string s1,s2;
 		cin>>s1>>s2;
 		
